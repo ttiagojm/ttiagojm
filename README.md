@@ -8,7 +8,7 @@ Besides math, I like to study Machine Learning and Computer Vision.
 ![Tigax's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttiagojm&show_icons=true&theme=github_dark)
 
 ## 📚 My favorite repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=Ground-Truth-vs-Prediction&theme=github_dark)](https://github.com/ttiagojm/Ground-Truth-vs-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=Math4Fun&theme=github_dark)](https://github.com/ttiagojm/Math4Fun)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=No-Flappy-Just-Buggy&theme=github_dark)](https://github.com/ttiagojm/No-Flappy-Just-Buggy)
 
 ## ⚙️ Stuff that I use(d)
