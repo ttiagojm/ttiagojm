@@ -31,6 +31,6 @@ Besides math, I like to study Machine Learning and Computer Vision.
 ![](https://img.shields.io/badge/OpenCV-0d8f30?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![](https://img.shields.io/badge/Numpy-fff?style=for-the-badge&logo=numpy&logoColor=196c8c)
-![](https://img.shields.io/badge/Pandas-fff?style=for-the-badge&logo=pytorch&logoColor=163678)
+![](https://img.shields.io/badge/Pandas-fff?style=for-the-badge&logo=pandas&logoColor=163678)
 ![](https://img.shields.io/badge/Sklearn-064a6b?style=for-the-badge&logo=scikit%20learn&logoColor=c97b0e)
 
