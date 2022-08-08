@@ -4,7 +4,7 @@ I'm just a human being who hated math, but recently started to love it.
 Besides math, I like to study Machine Learning and Computer Vision.
 
 ## 📈 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttiagojm&hide=javascript,jupyter%20notebook,shell,qmake,cmake&layout=compact&theme=github_dark))](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ttiagojm&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ttiagojm&hide=Html&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttiagojm&theme=nord_dark)
 
 ## 🗃️ Repositories
 ### 📊 Machine Learning
