@@ -11,8 +11,6 @@ Besides math, I like to study Machine Learning and Computer Vision.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=Ground-Truth-vs-Prediction&theme=github_dark)](https://github.com/ttiagojm/Ground-Truth-vs-Prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=DBN-TF2&theme=github_dark)](https://github.com/ttiagojm/DBN-TF2)
 
-### 🐍 Python
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=Twitter-Monitor&theme=github_dark)](https://github.com/ttiagojm/Twitter-Monitor)
-
 ### 🧰 Miscellaneous
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=Math4Fun&theme=github_dark)](https://github.com/ttiagojm/Math4Fun)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=Estudos-Visao-Computacional&theme=github_dark)](https://github.com/ttiagojm/Estudos-Visao-Computacional)
