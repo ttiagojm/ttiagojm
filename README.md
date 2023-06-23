@@ -14,5 +14,5 @@ Besides math, I like to study Machine Learning and Computer Vision.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=GP-CNAS-PyTorch&theme=tokyonight)](https://github.com/ttiagojm/GP-CNAS-PyTorch)
 
 ### 🧰 Miscellaneous
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=Math4Fun&theme=tokyonight)](https://github.com/ttiagojm/Math4Fun)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=OCaml-Exercises&theme=tokyonight)](https://github.com/ttiagojm/OCaml-Exercises)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ttiagojm&repo=Estudos-Visao-Computacional&theme=tokyonight)](https://github.com/ttiagojm/Estudos-Visao-Computacional)
