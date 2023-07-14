@@ -5,7 +5,9 @@
   
 ## 📈 Github Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ttiagojm&hide=Html&theme=tokyonight)
-## 🗃️ Repositories
-Here you have some random stuff I did. Don't expect efficient and elegant code. Some repos are in Portuguese.
 
-### 📇 Social
+## 📇 Social
+
+<a href="https://tiago-martins.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/ttiagojm/social-icons/master/PNG/Color/Blogger.png" alt="Website" width="60" height="60"></a>
+<a href="https://www.linkedin.com/in/tiago-martins-b81507224/" target="_blank"><img src="https://raw.githubusercontent.com/ttiagojm/social-icons/master/PNG/Color/LinkedIN.png" alt="LinkedIn" width="60" height="60"></a>
+<a href="https://www.fiverr.com/ttiago_martins" target="_blank"><img src="https://raw.githubusercontent.com/ttiagojm/social-icons/master/PNG/Color/Fiverr.png" alt="Fiverr" width="60" height="60"></a>
