@@ -1,13 +1,18 @@
-## Hi there 👋
-* I'm Tiago, I like Mathematics, Artificial Intelligence and to explore random stuff 
-* I'm in a Computer Engineering degree (And I regret it)
-* I usually use Python but I also like C and OCaml
-  
-## 📈 Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ttiagojm&hide=Html&theme=tokyonight)
+<h1 align="center">Hi 😁</h1>
+<hr>
 
-## 📇 Social
+* My name is Tiago, I like **Mathematics**, **Artificial Intelligence** and to explore random stuff 
+* I'm in the third year of a Computer Engineering degree 
+* For me programming isn't the fun part ... ***The fun part is the exploration and mathematical thinking!***
+* Irrelevant for you but very important to me: I'm a BIG FAN of **One Piece**
 
-<a href="https://tiago-martins.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/ttiagojm/social-icons/master/PNG/Color/Blogger.png" alt="Website" width="60" height="60"></a>
-<a href="https://www.linkedin.com/in/tiago-martins-b81507224/" target="_blank"><img src="https://raw.githubusercontent.com/ttiagojm/social-icons/master/PNG/Color/LinkedIN.png" alt="LinkedIn" width="60" height="60"></a>
-<a href="https://www.fiverr.com/ttiago_martins" target="_blank"><img src="https://raw.githubusercontent.com/ttiagojm/social-icons/master/PNG/Color/Fiverr.png" alt="Fiverr" width="60" height="60"></a>
+<p align="center">
+    <img src="https://github.com/ttiagojm/ttiagojm/blob/main/.github/luffy-luffy-gear-5.gif" alt="Gear 5">
+</p>
+<hr>
+<h1 align="center">📇 Social</h1>
+My main projects, social media and blog posts you can see here:
+
+<h3 align="center">
+  <a href="https://tiago-martins.netlify.app/" target="_blank" rel="noopener noreferrer">https://tiago-martins.netlify.app/</a>
+</h3>
