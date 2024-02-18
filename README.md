@@ -6,6 +6,13 @@
 * For me programming isn't the fun part ... ***The fun part is the exploration and mathematical thinking!***
 
 <hr>
+<h1 align="center">🎓 Skills</h1>
+The languages which I have more experience are: <u>Python</u> and <u>Java</u>.
+
+However I have experience in Deep Learning and Data Science too:
+  * [Deep Learning](https://github.com/ttiagojm/ttiagojm/tree/main/Deep%20Learning)
+  * [Data Science](https://github.com/ttiagojm/ttiagojm/tree/main/Data%20Science)
+<hr>
 <h1 align="center">📇 Social</h1>
 My main projects, social media and blog posts you can see here:
 
