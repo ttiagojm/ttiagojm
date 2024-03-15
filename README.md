@@ -8,6 +8,7 @@
 <hr>
 <h1 align="center">🎓 Skills</h1>
 The languages which I have more experience are: <u>Python</u> and <u>Java</u>.
+
   * [Web Dev](https://github.com/ttiagojm/ttiagojm/tree/main/WebDev)
   * [Deep Learning](https://github.com/ttiagojm/ttiagojm/tree/main/Deep%20Learning)
   * [Data Science](https://github.com/ttiagojm/ttiagojm/tree/main/Data%20Science)
