@@ -9,6 +9,8 @@
 Languages:
   * Python
   * Java
+  * Spring Framework
+  * Docker
 
 Projects
   * [Web Dev](https://github.com/ttiagojm/ttiagojm/tree/main/WebDev)
