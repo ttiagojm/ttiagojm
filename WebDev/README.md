@@ -18,7 +18,7 @@ The list below have all the links for my personal projects in Web Development:
 * DailyMath
     * [This](https://github.com/ttiagojm/DailyMath) project is a web application which shows a new mathematic exercise everyday
     * It's being developed by me and other people
-    * We use Python and FastAPI for backend, PostgreSQL for database and ReactJS for frontend
+    * We use Java and Servlets for backend, PostgreSQL for database and ReactJS for frontend
     * Mathematics exercises and solutions will be saved in the database
     * No authentication is needed
     * The web application is still under development
@@ -44,7 +44,7 @@ A lista abaixo contém todos os links para o meus projetos pessoais na área de 
 * DailyMath
     * [Este](https://github.com/ttiagojm/DailyMath) projeto é uma aplicação web que mostra um exercício de matemática todos os dias
     * Está a ser desenvolvido por mim e por outras pessoas
-    * Usamos Python e FastAPI para o backend, PostgreSQL para a base de dados e ReactJS para o frontend
+    * Usamos Java e Servlets para o backend, PostgreSQL para a base de dados e ReactJS para o frontend
     * Os exercícios e as soluções para os mesmos são armazenados na base de dados
     * Não é necessário fazer autenticações
     * A aplicação ainda está em desenvolvimento
