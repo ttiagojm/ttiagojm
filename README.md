@@ -1,25 +1,60 @@
-<h1 align="center">Hi 😁</h1>
+<h1 align="center">Hi O/</h1>
 
 * My name is Tiago, I like **Mathematics**, **Artificial Intelligence** and to explore random stuff 
-* I'm in the third year of a Computer Engineering degree 
-* For me programming isn't the fun part ... ***The fun part is the exploration and mathematical thinking!***
+* I've a BSc in **Computer Engineering**
+* I'm getting prepared for a BSc in **Mathematics**
+* I like simple stuff
 
-<h1 align="center">🎓 Skills</h1>
+<details>
+<summary>Cick here</summary>
+<br>
+Give it a try: <a href="https://tiago-martins.netlify.app/about" target="_blank" rel="noopener noreferrer">tiago-martins.netlify.app/about</a>
+</details>
 
-Languages:
-  * Python
-  * Java
-  * Spring Framework
-  * Docker
 
-Projects
-  * [Web Dev](https://github.com/ttiagojm/ttiagojm/tree/main/WebDev)
-  * [Deep Learning](https://github.com/ttiagojm/ttiagojm/tree/main/Deep%20Learning)
-  * [Data Science](https://github.com/ttiagojm/ttiagojm/tree/main/Data%20Science)
+<h1 align="center">Stacks</h1>
 
-<h1 align="center">📇 Social</h1>
-My main projects, social media and blog posts you can see here:
+<details>
+<summary>Web</summary>
+<br>
+ 
+ * Angular
+ * Spring Boot
+ * Node/Express
+   
+</details>
 
-<h3 align="center">
-  <a href="https://tiago-martins.netlify.app/" target="_blank" rel="noopener noreferrer">https://tiago-martins.netlify.app/</a>
-</h3>
+<details>
+<summary>AI</summary>
+<br>
+ 
+ * Tensorflow
+ * PyTorch
+ * Pandas
+
+</details>
+
+
+<details>
+<summary>Databases</summary>
+<br>
+ 
+ * MongoDB
+ * MySQL
+
+</details>
+
+<details>
+<summary>Tools</summary>
+<br>
+ 
+ * Docker
+
+</details>
+
+<h1 align="center">Projects</h1>
+<details>
+<summary>Again ... Give it a try</summary>
+<br>
+ <a href="https://tiago-martins.netlify.app/" target="_blank" rel="noopener noreferrer">tiago-martins.netlify.app</a>
+</details>
