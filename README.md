@@ -1,4 +1,4 @@
-<h1 align="center">Hi O/ 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 * My name is Tiago, I like **Mathematics** 📐, **Artificial Intelligence** 🤖 and to explore random stuff 🔍
 * I've a BSc in **Computer Engineering** 💻
