@@ -3,7 +3,7 @@
 * My name is Tiago, I like **Mathematics** 📐, **Artificial Intelligence** 🤖 and to explore random stuff 🔍
 * I've a BSc in **Computer Engineering** 💻
 * I'm getting prepared for a BSc in **Mathematics** 🧮
-* I like simple stuff 🧘
+* I tend to complicate things, but I like to try to simplify them. 🧘
 
 <details>
 <summary>Click here 🔽</summary>
