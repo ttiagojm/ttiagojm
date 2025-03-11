@@ -5,13 +5,6 @@
 * I'm getting prepared for a BSc in **Mathematics** 🧮
 * I tend to complicate things, but I like to try to simplify them. 🧘
 
-<details>
-<summary>Click here 🔽</summary>
-<br>
-Give it a try: <a href="https://tiago-martins.netlify.app/about" target="_blank" rel="noopener noreferrer">tiago-martins.netlify.app/about</a>
-</details>
-
-
 <h1 align="center">Stacks 📚</h1>
 
 <details>
@@ -50,11 +43,4 @@ Give it a try: <a href="https://tiago-martins.netlify.app/about" target="_blank"
  
  * Docker 🐳
 
-</details>
-
-<h1 align="center">Projects 💼</h1>
-<details>
-<summary>Again ... Give it a try 🔽</summary>
-<br>
- <a href="https://tiago-martins.netlify.app/" target="_blank" rel="noopener noreferrer">tiago-martins.netlify.app</a>
 </details>
